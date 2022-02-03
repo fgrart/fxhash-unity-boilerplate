@@ -5,10 +5,10 @@ The version of Unity used is 2020.3.26f1, so I recommend downloading that one.
 
 # Installation
 
-Clone the repository to your machine.
+Clone the repository to your machine, make sure you are in your desired folder.
 
 ```
-$ git clone https://github.com/fgrart/fxhash-unity-boilerplate.git your_folder && cd your_folder
+$ git clone https://github.com/fgrart/fxhash-unity-boilerplate.git
 ```
 
 # Description
